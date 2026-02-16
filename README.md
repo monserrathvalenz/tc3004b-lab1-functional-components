@@ -13,4 +13,6 @@ Proyecto de la materia TC3004B.
 npm install
 npm run dev
 
-<img width="3272" height="1966" alt="image" src="https://github.com/user-attachments/assets/88ebf6a5-fc68-46f3-862a-8b9a511f9ea1" />
+## Vista previa
+
+![Vista del proyecto](https://github.com/user-attachments/assets/88ebf6a5-fc68-46f3-862a-8b9a511f9ea1)
